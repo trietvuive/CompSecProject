@@ -1,12 +1,11 @@
 {
   "name": "compsec",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node app.js",
-		"build": "npm init -y && npm install express"
+    "start": "node app.js",
+    "build": "npm init -y && npm install express"
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/trietvuive/CompSecProject/issues"
   },
-  "homepage": "https://github.com/trietvuive/CompSecProject#readme"
+  "homepage": "https://github.com/trietvuive/CompSecProject#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
