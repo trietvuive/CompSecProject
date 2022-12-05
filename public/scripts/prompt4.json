@@ -1,0 +1,13 @@
+{
+	"sender_email": "automatedrems@gmail.com",
+	
+	"situation": "You are a student at XYZ University, and you work part time at ABCorp. You are part of several social groups, play some games that require your email, and are signed up for some services that involve email.",
+	
+	"email": "Hello! ABCorp’s password policy has recently changed, and so we are asking all employees to log in at http://ABCpasschanger.com to change their passwords with our new policy of having at least one number, special character, or emoji in their login info. Thanks!",
+	
+	"flavor": "Your boss had mentioned a potential policy change of the sort, company passwords are allowed to be really weak right now. How have they gotten away with that, anyway? ",
+	
+	"accept": "The moment you hit enter on your log in information, the glow of accomplishment upon responding to an email quickly turns to dread sinking in your stomach. That was phishing, wasn’t it?  The email address was iffy, and while it seemed pretty legit overall, when you navigate to the website the requirements haven’t changed. You quickly change your password again on the official website, and hope that’s enough.",
+	
+	"deny": "Yeah, the email address was iffy, and it was pretty legit overall, but when you navigated to the website the requirements hadn’t changed. You’ll ask your boss to make sure later, but better safe than sorry."
+}

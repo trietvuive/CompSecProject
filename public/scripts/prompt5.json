@@ -1,0 +1,13 @@
+{
+	"sender_email": "it-center@xyz-it.com",
+	
+	"situation": "You are a student at XYZ University, and you work part time at ABCorp. You are part of several social groups, play some games that require your email, and are signed up for some services that involve email.",
+	
+	"email": "Hello, PhishingSecure is a cyber-attacks prevention software that protects an individual or company’s data from being breached or misused by tackling the social engineering used in targeted assaults that lack a malicious payload to get beyond email gateways. PhishingSecure helps in protecting your private data and which also safeguards your company’s data. Our school has collaborated with the company and would require each student to enroll and register themselves in an agreed plan with PhishingSecure. Below is a link to register and fill in your personal and payment details for the mandatory service. Link to register: http://phishingsecure.com/details/ Thank you!",
+	
+	"flavor": "Your university already uses a dual authentication method in order to login to your personal or any other associated university account. Also there is no such mention or announcement anywhere on the school website. ",
+	
+	"accept": "The moment you hit enter and fill in your school credentials and your payment details, the glow of accomplishment upon responding to an email quickly turns to dread sinking in your stomach. That was phishing, wasn’t it?  The website link was a scam, and while it seemed pretty legit overall, when you navigate to the website the requirements haven’t changed. ",
+	
+	"deny": "Yeah, the link was not authentic and the email made legit sense at first, and there was no such mention about the PhishingSecure software collaboration or registration on the school website."
+}

@@ -1,0 +1,13 @@
+{
+	"sender_email": "clickmail@bigmail.com",
+	
+	"situation": "Your name is Eleanor Smith, and you are a spy. Or rather, you are the contact of a spy; somewhere, in one of your many accounts, a great and terrible secret is going to be revealed. Your spy contact is going to make sure you get sent an email by the service the account is in, but you receive a lot of emails. The opposing side has expert phishers, and knows that you will be receiving this secret, but not what the secret is. This leads to quite a bit of spam, but at least one email that isn’t spam.",
+	
+	"email": "Hello User!! We have a big event coming up, login in at http://flashlssgames/34iub3kl1 to receive a Big Bonus!!",
+	
+	"flavor": "ooo, Flashless Games does do holiday events sometimes, though you can’t think of a holiday happening soon.",
+	
+	"accept": "The moment you hit enter on your log in information, the glow of accomplishment upon responding to an email quickly turns to dread sinking in your stomach. That was phishing, wasn’t it? the email wasn’t from their usual email, and the url was, now that you look at it, a bit different from their normal url. Plus, their website didn’t mention the event. You just have to hope this isn’t the account you were supposed to be contacted via, and that you can get your account back if they steal it for other reasons.",
+	
+	"deny": "Yeah, the email wasn’t from their usual email, and the url was, now that you look at it, a bit different from their normal url. Plus, their website didn’t mention the event."
+}

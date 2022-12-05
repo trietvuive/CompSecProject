@@ -1,0 +1,13 @@
+{
+	"sender_email": "taylor.grey@yahoo.com",
+	
+	"situation": "You are a student at XYZ University, and you work part time at ABCorp. You are part of several social groups, play some games that require your email, and are signed up for some services that involve email.",
+	
+	"email": "Hello Eleanor, This is Taylor here. I am running late today due to the traffic on 5th Ave. I don’t have access to my work email now, hence, I am requesting access to the encrypted document which has the details of the guests visiting our company the coming Friday and the Hotel rooms they have been assigned.Could you please do the same? ",
+	
+	"flavor": "You are aware that there has been some traffic on the 5th avenue and you could make out in time just because you had left early for office that day.",
+	
+	"accept": "Yes, it was a genuine email. The company official may be incorrect about requesting the company related document on his personal email address in case of data breach which could compromise the company’s and the individuals’ on the list’s data. But, he demanded an encrypted file which could be accessed only with authentication.",
+	
+	"deny": "It was not a phishing attack. The company official asked for an encrypted file which could be accessed only via authentication."
+}

@@ -1,0 +1,13 @@
+{
+	"sender_email": "pqrscar@gmail.com",
+	
+	"situation": "Your name is Eleanor Smith, and you are a spy. Or rather, you are the contact of a spy; somewhere, in one of your many accounts, a great and terrible secret is going to be revealed. Your spy contact is going to make sure you get sent an email by the service the account is in, but you receive a lot of emails. The opposing side has expert phishers, and knows that you will be receiving this secret, but not what the secret is. This leads to quite a bit of spam, but at least one email that isn’t spam.",
+	
+	"email": "Hey there! Download this new software plug-in “Uninterrupted” on your browser to enjoy a seamless gaming experience without any advertisements. Link: https://uninterrupted.as.com/ Thanks much!",
+	
+	"flavor": "That’s interesting!!! It would be nice to not have any advertisements with any further new games I would be playing online. However, I usually don’t see any advertisements popping up in between my games I have been playing recently.",
+	
+	"accept": "The moment you hit enter and fill in your user credentials and your payment details, the glow of accomplishment upon responding to an email quickly turns to dread sinking in your stomach. That was phishing, wasn’t it?  The website link was a scam, and the in-game files may have contained viruses that users unintentionally allow onto their systems during installation.",
+	
+	"deny": "Yeah, the link was not authentic and the email about the software plug-in seemed to be appealing at first but it was nothing more than malicious software that may be executed to damage the user's device's security and privacy. In-game files may contain viruses that users unintentionally allow onto their systems during installation."
+}
