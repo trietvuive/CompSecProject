@@ -1,0 +1,15 @@
+{
+	"sender_name": "Andrea Zhang",
+	
+	"sender_email": "AZheng@XYZ.edu",
+	
+	"situation": "You are a student at XYZ University, and you work part time at ABCorp. You are part of several social groups, play some games that require your email, and are signed up for some services that involve email.",
+	
+	"email": "Hey Eleanor! You’re in the CS301 class, right? I’m making a Discorb server for the class, here’s the link! https://discorb/12352344",
+	
+	"flavor": "You are indeed in CS301, though you aren’t super familiar with all the classmates.",
+	
+	"accept": "Oh nice, you definitely recognize some of the people in this chat. This will be helpful!",
+	
+	"deny": "Better safe than sorry. Thinking about it though, that wasn’t super suspicious, and the email was definitely from your school. Maybe you’ll ask about it in class on Monday."
+}

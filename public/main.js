@@ -1,4 +1,4 @@
-const PROMPT_NUM = 1;
+const PROMPT_NUM = 2;
 let json_data = null
 
 function onAccept() {
@@ -37,27 +37,26 @@ function newPrompt() {
 	.then((data) => {
 		console.log(data)
 		json_data = data
-		changeSituation()
-		changeEmail()
-		changeFlavor()
+		changeElement("sender_name", json_data["sender_name"])
+		changeTextOnly("sender_email", json_data["sender_email"])
+		changeElement("situation", json_data["situation"])
+		changeElement("email", json_data["email"])
+		changeElement("flavor", json_data["flavor"])
 		toggleObject("accept", true)
 		toggleObject("deny", true)
 	})
 }
 
-function changeSituation() {	
-	var situationArea = document.getElementById("situation")
-	situationArea.innerText = json_data["situation"]
+function changeElement(id, text) {
+	if(text === undefined) text = ""
+	var x = document.getElementById(id)
+	x.innerText = text
 }
 
-function changeEmail() {
-	var emailArea = document.getElementById("email")
-	emailArea.innerText = json_data["email"]
-}
-
-function changeFlavor() {
-	var flavorArea = document.getElementById("flavor")
-	flavorArea.innerText = json_data["flavor"]
+function changeTextOnly(id, text) {
+	var x = document.getElementById(id)
+	var newText = x.childNodes[0]
+	newText.nodeValue = text
 }
 
 newPrompt()
