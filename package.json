@@ -2,11 +2,9 @@
   "name": "compsec",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node app.js",
-		"build": "npm init -y && npm install express"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -14,6 +12,9 @@
   },
   "author": "",
   "license": "ISC",
+	"dependencies": {
+    "express": "^4.9.8"
+  },
   "bugs": {
     "url": "https://github.com/trietvuive/CompSecProject/issues"
   },
