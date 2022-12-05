@@ -1,4 +1,4 @@
-const PROMPT_NUM = 6;
+const PROMPT_NUM = 7;
 let json_data = null
 
 function onAccept() {
