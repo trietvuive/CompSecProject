@@ -1,0 +1,11 @@
+{
+	"situation": "Your name is Eleanor Smith, and you are a spy. Or rather, you are the contact of a spy; somewhere, in one of your many accounts, a great and terrible secret is going to be revealed. Your spy contact is going to make sure you get sent an email by the service the account is in, but you receive a lot of emails. The opposing side has expert phishers, and knows that you will be receiving this secret, but not what the secret is. This leads to quite a bit of spam, but at least one email that isn’t spam.",
+	
+	"email": "hello!!! this is. The prince of the Moon. i am in grave danger!!! The moon assassins are after me and only you can help. Please wire me $200 to pigeonhell.vemno to save my life and the democracy of the moon. Thank u i appreciate it a lot.",
+	
+	"flavor": "I mean, you do have about 200 just lying around in vemno…",
+	
+	"accept": "The moment you hit send, the glow of accomplishment upon responding to an email quickly turns to dread sinking in your stomach. That was spam, wasn’t it? The bad grammar and capitalization, the irrelevant email, being asked to wire money with no explanation or record. Also, you’re fairly certain the moon does not actually have a prince, or government of any form. Well, at least they got your money and not any account information, so your secret is still safe.",
+	
+	"deny": "Yeah, that was pretty obvious spam. The bad grammar and capitalization, the irrelevant email, being asked to wire money with no explanation or record. Also, you’re fairly certain the moon does not actually have a prince, or government of any form."
+}
