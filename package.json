@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,13 +16,13 @@
 	"dependencies": {
     "express": "^4.9.8"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "bugs": {
     "url": "https://github.com/trietvuive/CompSecProject/issues"
   },
   "homepage": "https://github.com/trietvuive/CompSecProject#readme",
   "keywords": [],
-  "description": "",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "description": ""
 }
